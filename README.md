@@ -3,9 +3,9 @@ Imaging devices have infiltrated every corner of modern life. They are omniprese
 You will be requiring an opencv library installed in your PC.
 I did this project as part of my coursework at University of Dayton in Advanced Interactive Media.
 The requirements specified by our Professor are as follows :
-.
-.
-.
+
+
+
 Steps
 
 (1) Load video from your laptop webcam by using OpenCV.
